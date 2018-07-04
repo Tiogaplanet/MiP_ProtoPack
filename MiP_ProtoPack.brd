@@ -300,7 +300,7 @@
 <hole x="36.8554" y="14.0208" drill="3.2"/>
 <text x="35.306" y="-9.652" size="1.6764" layer="51" ratio="15">Samuel Trassare</text>
 <text x="21.336" y="1.397" size="1.016" layer="21" font="vector" ratio="15" align="center">v1</text>
-<text x="21.336" y="3.429" size="0.6096" layer="22" font="vector" align="center">https://github.com/tiogaplanet/MiP_ProtoPack</text>
+<text x="21.336" y="3.429" size="0.6096" layer="21" font="vector" align="center">https://github.com/tiogaplanet/MiP_ProtoPack</text>
 </plain>
 <libraries>
 <library name="SparkFun">
